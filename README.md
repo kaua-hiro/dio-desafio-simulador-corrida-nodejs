@@ -37,7 +37,7 @@ Para rodar este projeto em sua máquina local, siga os passos abaixo.
 
 1.  Clone o repositório:
     ```bash
-    git clone https://github.com/kaua-hiro/dio-desafio-simulador-corrida-nodejs.git
+    git clone https://github.com/kaua-hiro/dio-desafio-simulador-corrida-nodejs
     ```
 
 2.  Navegue até o diretório do projeto:
